@@ -2,10 +2,12 @@
 <br></br>
 
 **-- Login PAGE**
+<br></br>
 ![](https://imgur.com/bQsG8dq.png)
 <br></br>
 
 **-- Received Email**
+<br></br>
 ![](https://imgur.com/IUKt50k.png)
 <br></br>
 
